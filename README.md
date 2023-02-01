@@ -1,9 +1,8 @@
-# CS & Math Vault
-This repository is a collection of useful math and computer science resources that have helped me along the way in my career. The following includes online courses, lectures, books, articles, blogs, etc. 
+<h1 id="title" align="center"> Math & CS Vault </h1>
+<p id="caption" align="center">This repository is a collection of useful math and computer science resources that have helped me along the way in my career. The following includes online courses, lectures, books, articles, blogs, etc. </p>
 
 ---
-Table of Contents
--
+<h2 id="toc" align="center">Table of Contents</h2>
 <ul>
   <!-- Mathematics -->
   <li> <a href="mathematics">Mathematics</a>
