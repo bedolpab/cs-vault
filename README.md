@@ -170,6 +170,7 @@
 <li><a href="https://www.learnshell.org/"> LearnShell.org </a></li>
 <li><a href="https://doc.rust-lang.org/book/title-page.html"> The Rust Programming Language </a></li>
 <li><a href="https://www.amazon.com/C-9-0-Nutshell-Definitive-Reference/dp/1098100964"> C# 9.0 In a Nutshell </a></li>
+<li><a href="https://library.samdu.uz/download/11092"> A Tour of C++</a></li>
 </ul>
 
 ---
